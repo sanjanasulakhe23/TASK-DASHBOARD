@@ -20,7 +20,21 @@ A fun, interactive task dashboard built with **pure JavaScript**.
 - Persistent tasks using `localStorage`  
 
 ---
+Technologies Used
 
+JavaScript (DOM manipulation, event handling, localStorage, fetch API)
+
+HTML (basic structure, dynamically created by JS)
+
+CSS (inline styles via JS for colors, layout, and animations)
+
+Fun Element
+
+Each task has a randomly assigned emoji avatar
+
+Fetches random jokes from Official Joke API
+
+Hover animations for avatars and task cards
 <img width="1503" height="757" alt="image" src="https://github.com/user-attachments/assets/bbd4d988-24a1-4812-8e41-bf1e10d47810" />
 
 
